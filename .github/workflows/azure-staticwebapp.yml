@@ -70,10 +70,11 @@ jobs:
           action: "close"
   build:
     runs-on: ubuntu-latest
+    working-directory: ./HealthMS
     steps:
       - name: Install dependencies
         run: |
-          ls
+          ls 
           npm install
         
         env:
