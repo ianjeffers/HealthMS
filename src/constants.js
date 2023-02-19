@@ -1,4 +1,4 @@
-export const backend_host =  "http://127.0.0.1:5000";
+export const backend_host =  process.env.BACKEND_HOST;
 
 export const exercise_path = "/exercise";
 export const food_path = "/food";
@@ -18,6 +18,6 @@ export const allergy_path = "/allergies";
 export const illness_path = "/illnesses";
 
 export const authorization_scope = "read:current_user update:current_user_metadata";
-export const authorization_domain = "dev-86qkwtcn1z6pwzhs.us.auth0.com";
+export const authorization_domain = process.env.AUTH0_DOMAIN;
 export const authorization_client_id = process.env.AUTH0_CLIENT_ID;
 export const authorization_audience = "https://" + authorization_domain + "/api/v2/";
