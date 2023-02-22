@@ -12,6 +12,7 @@ const Allergy = () => {
   const [intensity, setIntensity] = useState('');
   const [date, setDate] = useState('');
   const [notes, setNotes] = useState('');
+  
   const { user, isAuthenticated } = useAuth0();
   const [userID, setUserID] = useState(user ? user.sub : null);
 
