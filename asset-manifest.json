@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HealthMS/static/css/main.ff6bc1f2.css",
+    "main.js": "/HealthMS/static/js/main.5dbfe874.js",
+    "static/js/787.0967767b.chunk.js": "/HealthMS/static/js/787.0967767b.chunk.js",
+    "static/media/aboutImage.png": "/HealthMS/static/media/aboutImage.4ecaf9d5a02ed35f645b.png",
+    "static/media/sapling.png": "/HealthMS/static/media/sapling.850e0da74ccfd22dc09a.png",
+    "static/media/seed.png": "/HealthMS/static/media/seed.c7c07ac9cf1d2a0f2f2f.png",
+    "static/media/logo.png": "/HealthMS/static/media/logo.f3263f611fc6a69613c9.png",
+    "static/media/young.png": "/HealthMS/static/media/young.86da3075dc2d1894c085.png",
+    "static/media/sprout.png": "/HealthMS/static/media/sprout.be7b5449fdab3ace4b27.png",
+    "static/media/adult.png": "/HealthMS/static/media/adult.cbe151663697f51a2bf8.png",
+    "static/media/giant.png": "/HealthMS/static/media/giant.cbe151663697f51a2bf8.png",
+    "static/media/medium.png": "/HealthMS/static/media/medium.cbe151663697f51a2bf8.png",
+    "index.html": "/HealthMS/index.html",
+    "main.ff6bc1f2.css.map": "/HealthMS/static/css/main.ff6bc1f2.css.map",
+    "main.5dbfe874.js.map": "/HealthMS/static/js/main.5dbfe874.js.map",
+    "787.0967767b.chunk.js.map": "/HealthMS/static/js/787.0967767b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff6bc1f2.css",
+    "static/js/main.5dbfe874.js"
+  ]
+}
