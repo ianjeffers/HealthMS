@@ -1,0 +1,39 @@
+.data-view {
+  font-family: Arial, sans-serif;
+}
+
+.category-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.category-button {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px;
+  transition: background-color 0.3s;
+}
+
+.category-button:hover {
+  background-color: #e0e0e0;
+}
+
+.category-button.selected {
+  background-color: #4caf50;
+  color: white;
+}
+
+.category-button.selected:hover {
+  background-color: #43a047;
+}
+
+.data-display {
+  margin-top: 20px;
+  width:100%;
+  align-items: center;
+  max-height: 90%;
+}
