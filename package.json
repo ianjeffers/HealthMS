@@ -1,6 +1,5 @@
 {
   "name": "healthms",
-  "homepage": "https://ianjeffers.github.io/HealthMS/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
