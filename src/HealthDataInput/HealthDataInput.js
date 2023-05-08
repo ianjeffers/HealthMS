@@ -81,9 +81,9 @@ const HealthDataInput = () => {
           />
         </div>
         <button type="submit">Submit</button>
-        <button type="button" onClick={handleSpeech}>
+        {/* <button type="button" onClick={handleSpeech}>
           Start Speech Recognition
-        </button>
+        </button> */}
       </form>
       {message && <p>{message}</p>}
     </div>

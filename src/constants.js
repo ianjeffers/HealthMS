@@ -1,4 +1,5 @@
-export const backend_host =  "http://127.0.0.1:5000";
+// export const backend_host =  "http://127.0.0.1:5000";
+export const backend_host = "health-ms.vercel.app";
 
 export const profile_path = "/profile";
 export const about_path = "/about";
